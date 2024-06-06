@@ -1,0 +1,30 @@
+﻿@using Umbraco.Cms.Web.Common.PublishedModels;
+@inherits Umbraco.Cms.Web.Common.Views.UmbracoViewPage<ContentModels.ErrorPage>
+@using ContentModels = Umbraco.Cms.Web.Common.PublishedModels;
+@{
+	Layout = null;
+}
+<div class="container">
+
+			<div class="row section">
+				<div class="col-md-3">
+				    <nav class="nav-bar nav-bar -- list">
+@{
+var typedMediaPickerSingle = Model.Value<IPublishedContent>("error");
+if (typedMediaPickerSingle != null)
+{
+
+// <p>@typedMediaPickerSingle.Url()</p>
+<a href = "/"/>
+<img src="@typedMediaPickerSingle.Url()" style-"width:1000px" alt="@typedMediaPickerSingle.Value("alt")" />
+
+}
+}
+</nav>
+				    
+				    
+				    
+				    </div>				
+			</div>
+
+		</div>
