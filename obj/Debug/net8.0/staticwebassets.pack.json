@@ -1,0 +1,125 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\CG-virgins.JPG",
+      "PackagePath": "staticwebassets\\images\\CG-virgins.JPG"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\H5YR_wht.png",
+      "PackagePath": "staticwebassets\\images\\H5YR_wht.png"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\Press.jpg",
+      "PackagePath": "staticwebassets\\images\\Press.jpg"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\SWAT.jpg",
+      "PackagePath": "staticwebassets\\images\\SWAT.jpg"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\SofieToft.jpg",
+      "PackagePath": "staticwebassets\\images\\SofieToft.jpg"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\arm_with_u_logo.png",
+      "PackagePath": "staticwebassets\\images\\arm_with_u_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\certificate.png",
+      "PackagePath": "staticwebassets\\images\\certificate.png"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\cloud-new.png",
+      "PackagePath": "staticwebassets\\images\\cloud-new.png"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\code_too.png",
+      "PackagePath": "staticwebassets\\images\\code_too.png"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\community.png",
+      "PackagePath": "staticwebassets\\images\\community.png"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\confetti.jpg",
+      "PackagePath": "staticwebassets\\images\\confetti.jpg"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\gabriel.jpg",
+      "PackagePath": "staticwebassets\\images\\gabriel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\heart-DNS.png",
+      "PackagePath": "staticwebassets\\images\\heart-DNS.png"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\kristian.jpg",
+      "PackagePath": "staticwebassets\\images\\kristian.jpg"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\michael.jpg",
+      "PackagePath": "staticwebassets\\images\\michael.jpg"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\rabbit.jpg",
+      "PackagePath": "staticwebassets\\images\\rabbit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\rheannon.jpg",
+      "PackagePath": "staticwebassets\\images\\rheannon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\shannon.jpg",
+      "PackagePath": "staticwebassets\\images\\shannon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\sofie-hammock.jpg",
+      "PackagePath": "staticwebassets\\images\\sofie-hammock.jpg"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\stickers.jpg",
+      "PackagePath": "staticwebassets\\images\\stickers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\uPackage.png",
+      "PackagePath": "staticwebassets\\images\\uPackage.png"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\u_product_roadmap_white-1.png",
+      "PackagePath": "staticwebassets\\images\\u_product_roadmap_white-1.png"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\v8_content_apps.png",
+      "PackagePath": "staticwebassets\\images\\v8_content_apps.png"
+    },
+    {
+      "Id": "C:\\Users\\axnar\\OneDrive\\Dokumenty\\umbraco\\MyCustomUmbracoProject\\wwwroot\\images\\you.jpg",
+      "PackagePath": "staticwebassets\\images\\you.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyCustomUmbracoProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyCustomUmbracoProject.props",
+      "PackagePath": "build\\MyCustomUmbracoProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyCustomUmbracoProject.props",
+      "PackagePath": "buildMultiTargeting\\MyCustomUmbracoProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyCustomUmbracoProject.props",
+      "PackagePath": "buildTransitive\\MyCustomUmbracoProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
